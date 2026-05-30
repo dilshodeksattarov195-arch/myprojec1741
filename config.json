@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrerify",
+        "uuid": 12016382,
+        "checksum": "vrcmok"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
